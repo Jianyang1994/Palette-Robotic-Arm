@@ -1,1 +1,0 @@
-# Palette-Robotic-Arm
